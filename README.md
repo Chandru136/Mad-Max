@@ -1,0 +1,50 @@
+# Speed Racer
+
+Speed Racer is a simple car racing game developed using the Pygame library.
+
+## Table of Contents
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Controls](#controls)
+- [Screenshots](#screenshots)
+- [License](#license)
+
+## Introduction
+
+This game, "Speed Racer," allows players to control a car and navigate through obstacles on a dynamic road. The goal is to cover the maximum distance while avoiding collisions.
+
+## Features
+
+- Pygame-based car racing game.
+- Obstacle avoidance and fuel collection.
+- Highscore tracking.
+
+## Installation
+
+1. Make sure you have Python installed on your system.
+2. Clone the repository:
+
+    ```bash
+    git clone https://github.com/yourusername/speed-racer.git
+    ```
+
+3. Navigate to the project directory:
+
+    ```bash
+    cd speed-racer
+    ```
+
+4. Install the required dependencies:
+
+    ```bash
+    pip install pygame
+    ```
+
+## Usage
+
+Run the game by executing the following command:
+
+```bash
+python speed_racer.py
