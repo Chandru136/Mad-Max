@@ -1,6 +1,4 @@
-To create a README file for your project on GitHub, you can provide information about the project, how to run it, and any other relevant details. Here's a basic template for your README:
 
-```markdown
 # Speed Racer
 
 Speed Racer is a simple car racing game developed using the Pygame library.
